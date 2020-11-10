@@ -7,10 +7,6 @@ body {
   padding-top: 70px;
 }
 
-/*---------------------------------------
-     TYPOGRAPHY              
-  -----------------------------------------*/
-
 h1,
 h2,
 h3,
@@ -237,12 +233,6 @@ section {
   border: 5px solid #29ca8e;
   border-top-color: #ffffff;
   animation: spinner 0.9s linear infinite;
-}
-
-@-webkit-@keyframes spinner {
-  to {
-    transform: rotate(360deg);
-  }
 }
 
 @keyframes spinner {
